@@ -5,6 +5,6 @@ Getting started with Microservices, testing simple microservices with Naming ser
 
 ![Naming-server](https://user-images.githubusercontent.com/63764427/155869340-2e2a79b6-3139-441c-aa1e-915ab69b56d2.png)
 
-![Load-balancing](currency-microservice.png)
+![Lload-balancing](https://user-images.githubusercontent.com/63764427/155869388-ce5a5cd6-f926-46e8-8998-92db5fd10901.png)
 
 source : https://courses.in28minutes.com/p/master-microservices-with-spring-boot-and-spring-cloud
